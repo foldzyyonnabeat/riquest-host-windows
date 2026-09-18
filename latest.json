@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "RiQuest Host 1.0.1",
+  "platforms": {
+    "win32-x64": {
+      "url": "https://github.com/foldzyyonnabeat/riquest-host-windows/releases/download/v1.0.1/riquest-host-win32-x64-installer.exe",
+      "size": 80623682,
+      "sha256": "173eee16e762007e5748a7ae141c6116425ca50c6abc0bd7d49ba13fbcd5dfb5"
+    }
+  }
+}
